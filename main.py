@@ -12,4 +12,4 @@ rfc_raw = urllib.request.urlopen{url}.read()
 rfc = rfc_raw.decode()
 print(rfc)
 
-            
+            DERP
